@@ -1,0 +1,6 @@
+validacao,ocorrencias,resultado
+silver_quantidades_precos_invalidos,0,OK
+silver_codigos_fora_catalogo,0,OK
+gold_chaves_duplicadas,0,OK
+gold_valores_invalidos,0,OK
+reconciliacao_transacoes_silver_gold,0,OK

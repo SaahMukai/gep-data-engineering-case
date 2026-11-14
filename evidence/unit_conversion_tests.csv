@@ -1,0 +1,6 @@
+caso,quantidade_calculada,quantidade_esperada,preco_calculado,preco_esperado,resultado
+capacidade_negativa,3,3,9,9,OK
+capacidade_nula,2,2,6,6,OK
+capacidade_zero,4,4,8,8,OK
+gramas_para_kg,5,5,20,20,OK
+kg_sem_conversao,15,15,10,10,OK

@@ -1,0 +1,6 @@
+run_id,ordem,etapa,linhas_entrada,linhas_saida,linhas_removidas
+a7ff4fb4-9ed6-485d-a4d0-3611b361f67b,1,correspondencia_catalogo,2000,1461,539
+a7ff4fb4-9ed6-485d-a4d0-3611b361f67b,2,tipos_valores_validos,1461,1461,0
+a7ff4fb4-9ed6-485d-a4d0-3611b361f67b,3,duplicidades_exatas,1461,1461,0
+a7ff4fb4-9ed6-485d-a4d0-3611b361f67b,4,unidades_compativeis,1461,1439,22
+a7ff4fb4-9ed6-485d-a4d0-3611b361f67b,5,conversao_canonica,1439,1439,0
